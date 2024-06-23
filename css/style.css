@@ -182,7 +182,7 @@ h1,h2,h3,h4,h5,h6{
         color: #2E5A84;
     }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    color:  #03a9f4;
+    color:  #2E5A84;
     background-color: transparent;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
@@ -361,6 +361,7 @@ TEAM CSS
     border-radius: 4px;
     -webkit-border-radius: 4px;
     position: relative;
+    box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.75);;
 }
 .team-box img{
     width:100%;

@@ -30,6 +30,9 @@ a,a:hover, a:focus, i{
     -ms-transition: all 0.3s ease-in-out;
 }
 
+.cliente h2{
+    color: #ffff;
+}
 .logo{
     height: 60px;
 }
@@ -427,7 +430,7 @@ TEAM CSS
     font-weight: 300;
 }
 .testimonials{
-    background: url(../images/bg-3.jpg);
+    background: url(../images/bg-3.png);
     background-position: 50% 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -680,7 +683,7 @@ cta
     margin-bottom:30px;
 }
 .cta-bg{
-    background-color:  #03a9f4;
+    background-color:  #2E5A84;
     padding-top: 40px;
 }
 .cta-bg h1{
@@ -688,7 +691,7 @@ cta
 }
 /***contact****/
 #contact{
-      background: url(../images/bg-1.jpg);
+      background: url(../images/bg-1.png);
     background-position: 50% 0;
     background-size: cover;
     background-repeat: no-repeat;
